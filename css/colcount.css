@@ -119,6 +119,12 @@ header {
   top: -35px;
   background: url(http://rayhyde.nl/playground/img/playground.png) no-repeat 0 0;
 }
+#explain a {
+  color: #fff;
+}
+#explain a:hover {
+  text-decoration: none;
+}
 form {
   background: rgba(125, 192, 173, 0.85);
   padding: 10px 20px;
