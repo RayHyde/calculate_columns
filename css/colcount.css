@@ -117,7 +117,7 @@ header {
   height: 192px;
   right: 20px;
   top: -35px;
-  background: url(http://rayhyde.nl/playground/img/playground.png) no-repeat 0 0;
+  background: url(../img/playground.png) no-repeat 0 0;
 }
 #explain a {
   color: #fff;
